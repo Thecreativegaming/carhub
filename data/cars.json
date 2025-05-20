@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "brand": "Audi",
+    "model": "RSQ8",
+    "category": "SUV",
+    "pricePerDay": 99.99,
+    "image": "https://www.zastavki.com/pictures/originals/2020Auto___Audi_2020_Audi_RS_Q8_car_front_view_on_white_background_148254_.jpg",
+    "description": "SUV for everyone, reliable and perfect for family holidays."
+  },
+  {
+    "id": "1",
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "category": "Sportcar",
+    "pricePerDay": 199.99,
+    "image": "https://images-porsche.imgix.net/-/media/CC457B030BDC44B6A8F5B3D5DDFC30FF_E4A8C6961CDA46F7995F162708ACA4D7_CZ25W26IX0011-911-carrera-t-cabrio-front?w=999&q=85&auto=format",
+    "description": "SUV for everyone, reliable and perfect for family holidays."
+  },
+  {
+    "id": "2",
+    "brand": "Ferrari",
+    "model": "488",
+    "category": "Sportcar",
+    "pricePerDay": 299.99,
+    "image": "https://i.pinimg.com/736x/9d/4e/48/9d4e489a87dee5fdf1854c47175769a3.jpg",
+    "description": "SUV for everyone, reliable and perfect for family holidays."
+  },
+  {
+    "id": "3",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "category": "Pickup",
+    "pricePerDay": 149.99,
+    "image": "https://cache3.arabwheels.ae/system/car_generation_pictures/26174/original/Front%20View.?1729765200",
+    "description": "SUV for everyone, reliable and perfect for family holidays."
+  }
+]
